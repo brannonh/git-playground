@@ -4,9 +4,11 @@ Use this repository to play around with Git and GitHub.
 
 ## Git Operations
 
+- Clone
+- Switch Repository
 - Commit History
 - Checkout Commit
-- Switch Branch
+- Switch Branch (Remote)
 - Fetch
 - Pull
 - Create Branch
@@ -19,7 +21,7 @@ Use this repository to play around with Git and GitHub.
 - Push
 - Revert Commit Changes
 - Resolve Merge Conflicts
-
+- Cherry-Pick Commit
 
 ## GitHub Operations
 
