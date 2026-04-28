@@ -28,4 +28,4 @@ Use this repository to play around with Git and GitHub.
 - View Pull Requests
 - Create Pull Request
 
-This is a new test.
+This is a test.
