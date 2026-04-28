@@ -18,6 +18,7 @@ Use this repository to play around with Git and GitHub.
 - Undo Commit
 - Push
 - Revert Commit Changes
+- The conflict is real.
 
 
 ## GitHub Operations
